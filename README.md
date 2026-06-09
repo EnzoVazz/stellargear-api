@@ -15,7 +15,7 @@ API REST desenvolvida em Java com Spring Boot para o projeto StellarGear. O sist
 ## 🔗 Links Importantes
 
 - **Deploy da API (Produção):** https://stellargear-api.onrender.com
-- **Vídeo Pitch (3 min):** [Link do YouTube aqui]
+- **Vídeo Pitch (3 min):** https://youtu.be/b_INSGITNvc
 - **Vídeo de Demonstração (10 min):** https://youtu.be/f69SwZGjTic
 - **Documentação Swagger:** Para acessar o Swagger da API em produção, adicione `/swagger-ui/index.html` ao final da URL de deploy.
 
